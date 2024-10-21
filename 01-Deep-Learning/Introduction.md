@@ -190,11 +190,11 @@ Examples: Excel spreadsheets, SQL databases, CSV files.
 
 Use Cases: Financial records, customer information, inventory management.
 
-Advantages: Easy to store, query, and analyze using traditional database management systems and analytics tools.
+Advantages: Easy to store, query, and analyse using traditional database management systems and analytics tools.
 
 ## Unstructured Data:
 
-Definition: Data without a predefined structure. It's not organized in a predefined manner and can come in various formats.
+Definition: Data without a predefined structure. It's not organised in a predefined manner and can come in various formats.
 
 Examples: Emails, social media posts, images, videos, audio files, text documents.
 
@@ -202,9 +202,84 @@ Use Cases: Sentiment analysis, image recognition, speech-to-text conversion.
 
 Advantages: Rich in information and context, capturing nuances and complex insights that structured data might miss. However, it requires more sophisticated tools to process and analyze.
 
-When it comes to Machine Learning and Deep Learning:
+# Data: when it comes to Machine Learning and Deep Learning:
 
-Structured Data: Traditional Machine Learning algorithms are quite effective.
+## Structured Data: 
 
-Unstructured Data: Deep Learning, particularly with neural networks, is often better suited for processing and making sense of complex unstructured data.
+Traditional Machine Learning algorithms are quite effective.
 
+Machine Learning tends to be more efficient. It's well-suited for handling organised, tabular data and can perform well with less computational power and smaller datasets.
+
+Examples: Linear regression, decision trees, random forests.
+
+Use Machine Learning for structured, well-organised data with clear relationships.
+
+## Unstructured Data: 
+
+Deep Learning, particularly with neural networks, is often better suited for processing and making sense of complex unstructured data.
+
+Deep Learning shines. It excels at processing and understanding complex patterns in data like images, audio, and text.
+
+Examples: Convolutional neural networks (CNNs) for image recognition, recurrent neural networks (RNNs) for sequential data, transformers for natural language processing.
+
+Use Deep Learning for unstructured, complex data where patterns are more intricate and require advanced feature extraction.
+
+# Machine Learning Algorithms
+
+Machine learning algorithms are the backbone of teaching machines to make sense of data and learn from it. Here are a few popular ones:
+
+## Linear Regression:
+
+Use Case: Predicting a continuous value (e.g., house prices).
+
+How It Works: Finds a linear relationship between input variables and the output.
+
+## Logistic Regression:
+
+Use Case: Binary classification problems (e.g., spam detection).
+
+How It Works: Predicts the probability of a binary outcome.
+
+## Decision Trees:
+
+Use Case: Both classification and regression tasks.
+
+How It Works: Splits data into branches to make decisions.
+
+## Random Forests:
+
+Use Case: Classification and regression.
+
+How It Works: Combines multiple decision trees to improve accuracy.
+
+## Support Vector Machines (SVM):
+
+Use Case: Classification tasks.
+
+How It Works: Finds the hyperplane that best separates the data into classes.
+
+## K-Nearest Neighbours (KNN):
+
+Use Case: Classification and regression.
+
+How It Works: Predicts the output based on the closest data points.
+
+## Naive Bayes:
+
+Use Case: Text classification, spam detection.
+
+How It Works: Uses Bayes' theorem to predict the probability of an outcome.
+
+## K-Means Clustering:
+
+Use Case: Grouping similar data points (e.g., customer segmentation).
+
+How It Works: Partitions data into clusters based on similarity.
+
+## Principal Component Analysis (PCA):
+
+Use Case: Dimensionality reduction, data visualisation.
+
+How It Works: Reduces the number of features while retaining most of the variation.
+
+#### Each algorithm has its strengths and is suitable for different types of problems and data structures.
