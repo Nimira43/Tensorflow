@@ -21,7 +21,7 @@ This layer produces the final output.
 Neural networks learn from data by adjusting the connections (weights) between neurons. Through training, they minimize errors, just like how we learn from our mistakes.
 
 ##### 4. Versatility: 
-They can be used for a variety of tasks, from recognizing images to translating languages and even driving cars.
+They can be used for a variety of tasks, from recognising images to translating languages and even driving cars.
 
 ##### 5. Types: 
 There are different types of neural networks, each suited for different tasks:
@@ -35,4 +35,4 @@ Excellent for image processing.
 ###### Recurrent Neural Networks (RNNs): 
 Perfect for sequential data like text and time series.
 
-#### Neural networks are powerful tools that have revolutionized fields like AI and machine learning. They’re like a digital brain, capable of amazing things.
+#### Neural networks are powerful tools that have revolutionised fields like AI and machine learning. They’re like a digital brain, capable of amazing things.
