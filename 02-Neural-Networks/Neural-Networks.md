@@ -36,3 +36,27 @@ Excellent for image processing.
 Perfect for sequential data like text and time series.
 
 #### Neural networks are powerful tools that have revolutionised fields like AI and machine learning. They’re like a digital brain, capable of amazing things.
+
+# Neural Networks broken down
+
+##### 1. Inputs:
+
+These are the raw data fed into the neural network. It could be images, text, numerical values, or any type of data you're working with. Each input has its features, which are the individual measurable properties or characteristics of the data.
+
+##### 2. Numerical Encoding:
+
+Since neural networks work with numbers, any input data must be converted into numerical format. This process is called encoding. For example, text data might be converted using techniques like one-hot encoding or word embeddings, while categorical data can be transformed using label encoding.
+
+##### 3. Learning Representation:
+
+This involves the layers of the neural network learning to represent the input data in a way that makes it easier to identify patterns and make predictions. As data passes through the layers, the network learns to recognise more complex features. For example, in an image recognition task, the early layers might detect edges and simple shapes, while deeper layers might recognise more complex structures like faces or objects.
+
+##### 4. Representation Output:
+
+After processing the data through several layers, the neural network produces a representation that is optimised for making a decision or prediction. This could be a feature vector, which is a set of numbers that compactly represents the data's essential features.
+
+##### 5. Outputs:
+
+The final layer of the network transforms the learned representation into a meaningful result. In a classification task, this could be the predicted class of the input data (e.g., cat or dog). In a regression task, it might be a continuous value (e.g., predicting house prices).
+
+Essentially, the process transforms raw input data into useful outputs through a series of transformations and learning steps. Each stage helps the network build a more accurate and meaningful understanding of the data.
