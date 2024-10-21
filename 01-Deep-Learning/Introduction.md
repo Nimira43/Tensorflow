@@ -153,3 +153,58 @@ Real-Time Processing: For some applications needing real-time responses, the tim
 Generalization: Deep learning models might not generalise well outside of the specific data they were trained on. They can struggle with new, unseen data that's different from their training set.
 
 So, while Deep Learning excels in many areas, it's important to weigh its benefits and limitations based on the specific problem you're trying to solve. 
+
+# When is it best to use Deep Learning or Machine Learning?
+
+It comes down to the problem you're trying to solve and the resources you have. Here's a quick guide:
+
+## Use Machine Learning When:
+
+Data is Limited: If you don't have a huge dataset, traditional machine learning methods are more effective.
+
+Quick Interpretability: If you need to understand and explain your model's decisions easily, machine learning models like decision trees are preferable.
+
+Resource Constraints: If you're limited on computational resources, machine learning methods are less demanding.
+
+Simplicity: When the problem is straightforward and doesn't require complex pattern recognition, simple models can be more efficient and faster.
+
+## Use Deep Learning When:
+
+Large Amounts of Data: If you have access to a vast amount of data, deep learning can uncover complex patterns and relationships.
+
+Complex Tasks: For tasks like image and speech recognition, natural language processing, and other highly complex problems, deep learning excels.
+
+Advanced Automation: When automating intricate tasks such as driving cars, diagnosing diseases from scans, or translating languages in real-time.
+
+High Computational Power: When you have the computational resources to train and run deep neural networks effectively.
+
+So, it really depends on the specific needs of your project and the constraints you’re working within.
+
+# What about structured data and unstructured data?
+
+## Structured Data:
+
+Definition: Organized data with a fixed schema. It's neatly formatted into tables, rows, and columns, making it easy to analyze and query.
+
+Examples: Excel spreadsheets, SQL databases, CSV files.
+
+Use Cases: Financial records, customer information, inventory management.
+
+Advantages: Easy to store, query, and analyze using traditional database management systems and analytics tools.
+
+## Unstructured Data:
+
+Definition: Data without a predefined structure. It's not organized in a predefined manner and can come in various formats.
+
+Examples: Emails, social media posts, images, videos, audio files, text documents.
+
+Use Cases: Sentiment analysis, image recognition, speech-to-text conversion.
+
+Advantages: Rich in information and context, capturing nuances and complex insights that structured data might miss. However, it requires more sophisticated tools to process and analyze.
+
+When it comes to Machine Learning and Deep Learning:
+
+Structured Data: Traditional Machine Learning algorithms are quite effective.
+
+Unstructured Data: Deep Learning, particularly with neural networks, is often better suited for processing and making sense of complex unstructured data.
+
