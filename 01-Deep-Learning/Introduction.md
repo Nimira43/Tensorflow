@@ -382,4 +382,49 @@ Anomaly detection, data compression, denoising data.
 ##### Use Case: 
 Language translation, text summarization, question answering systems.
 
-##### These algorithms allow for incredible advancements in various fields by processing and making sense of complex data.These algorithms allow for incredible advancements in various fields by processing and making sense of complex data.
+##### These algorithms allow for incredible advancements in various fields by processing and making sense of complex data.
+
+# What are Shallow algorithms and Common algorithms?
+
+##### Shallow Learning Algorithms are machine learning models that don't involve deep neural networks. They tend to be simpler, require less computational power, and work well with smaller datasets. Examples include:
+
+##### Linear Regression: 
+Predicts a continuous output.
+
+##### Logistic Regression: 
+Used for binary classification.
+
+##### K-Nearest Neighbors (KNN): 
+Classifies based on the closest training examples.
+
+##### Decision Trees: 
+Splits data into branches to make decisions.
+
+##### Support Vector Machines (SVM): 
+Finds the optimal separating hyperplane for classification.
+
+##### Naive Bayes: 
+Based on Bayes' theorem for classification.
+
+##### Common Algorithms cover both shallow and deep learning algorithms used frequently across various applications:
+
+##### Shallow Algorithms: 
+Linear regression, logistic regression, decision trees, random forests, KNN, Naive Bayes.
+
+##### Deep Learning Algorithms: 
+Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM), Generative Adversarial Networks (GANs), Transformers.
+
+##### These cover a wide spectrum from simple to complex tasks, making them versatile tools in the world of AI and data science.
+
+# Using TensorFlow for Neural Networks, Fully Connected Neural Networks, Convolutional Neutral Networks and Recurrent Neural Networks
+
+##### TensorFlow is a powerful open-source library for building and deploying machine learning models, including neural networks. Here’s a brief overview of how you can use TensorFlow for different types of neural networks:
+
+##### Fully Connected Neural Networks (Dense Networks)
+These networks connect every neuron in one layer to every neuron in the next layer. They are great for general-purpose tasks
+              
+##### Convolutional Neural Networks (CNNs)
+CNNs are particularly effective for image processing tasks. They use convolutional layers to filter inputs for useful information.
+
+##### Recurrent Neural Networks (RNNs)
+RNNs are designed for sequential data, like time series or natural language. They can use LSTM (Long Short-Term Memory) units to handle long-term dependencies.
